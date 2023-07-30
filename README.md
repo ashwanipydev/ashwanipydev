@@ -1,11 +1,11 @@
 ### Hi there 👋
-# I'm [Ashwani pandey] 👋
+# I'm Ashwani pandey 👋
 
 🚀 Full-Stack Developer | JavaScript Lover 💻 | CSS Enthusiast 🎨
 
 ## About Me
 
-Hey there! 👋 I'm [Ashwani], a passionate coder on a mission to explore the wonders of programming. I find absolute joy in crafting elegant solutions to complex problems and bringing ideas to life through code.
+Hey there! 👋 I'm Ashwani, a passionate coder on a mission to explore the wonders of programming. I find absolute joy in crafting elegant solutions to complex problems and bringing ideas to life through code.
 
 - 🔭 Currently, I'm deeply immersed in the world of JavaScript, where every line of code feels like poetry.
 - 🎨 I also have a soft spot for CSS, and I love experimenting with styles and layouts to create visually stunning and user-friendly interfaces.
