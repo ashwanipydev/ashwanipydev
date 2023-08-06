@@ -26,7 +26,7 @@ Hey there! 👋 I'm Ashwani, a passionate coder on a mission to explore the wond
 
 ## Github Stats
 
-![Ashwanipydev](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&count_private=true)
+![Ashwanipydev](https://github-readme-stats.vercel.app/api?username=ashwanipydev&show_icons=true&count_private=true)
 
 ## Top Languages
 
