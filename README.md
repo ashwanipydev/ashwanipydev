@@ -30,7 +30,7 @@ Hey there! 👋 I'm Ashwani, a passionate coder on a mission to explore the wond
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanipydev)
 
 ## Let's Collaborate!
 
