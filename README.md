@@ -1,60 +1,161 @@
-### Hi there 👋
-# I'm Ashwani pandey 👋
+# Ashwani Kumar (@ashwanipydev)
 
-🚀 Full-Stack Developer | JavaScript Lover 💻 | CSS Enthusiast 🎨
+📍 India  
+💼 **DevOps Engineer (Backend → DevOps Transition)**  
+🔧 Linux | Docker | CI/CD | Spring Boot | Cloud Fundamentals  
 
-## About Me
+---
 
-Hey there! 👋 I'm Ashwani, a passionate coder on a mission to explore the wonders of programming. I find absolute joy in crafting elegant solutions to complex problems and bringing ideas to life through code.
+## PROFESSIONAL SUMMARY
 
-- 🔭 Currently, I'm deeply immersed in the world of JavaScript, where every line of code feels like poetry.
-- 🎨 I also have a soft spot for CSS, and I love experimenting with styles and layouts to create visually stunning and user-friendly interfaces.
-- 🌱 Learning is my constant companion, and I thrive on embracing new technologies and frameworks that keep the tech world buzzing.
+DevOps-oriented engineer with strong **Java Spring Boot backend experience** and hands-on practice in **Linux server administration, containerization, and service deployments**.  
+Experienced in owning the **full lifecycle** of applications: build, deploy, configure, secure, monitor, and troubleshoot in production-like environments.
 
-## Tech Stack
+Actively preparing for **DevOps / Platform Engineer roles** with a focus on real-world infrastructure and automation.
 
-- **Languages:** JavaScript, HTML, CSS
-- **Frameworks:** React, Node.js
-- **Database:** MongoDB, MySQL
-- **Tools:** Git, VS Code
+---
+
+## CI/CD PIPELINE (PRACTICAL FLOW)
+
+Developer
+|
+v
+Git Commit / PR
+|
+v
+GitHub Repository
+|
+v
+CI Pipeline (GitHub Actions)
+|
+|---> Compile & Unit Tests
+|---> Build JAR (Spring Boot)
+|---> Build Docker Image
+|---> Tag Image (version / commit hash)
+|
+v
+Docker Registry
+|
+v
+Linux Server (VM / EC2)
+|
+|---> Pull Image
+|---> Docker Compose
+|---> Environment Config
+|---> systemd / Container Restart
+|
+v
+Nginx (Reverse Proxy + SSL)
+|
+v
+Production APIs
 
 
-## Let's Connect!
+---
 
-- 📫 How to reach me: [Email](pydev.ashwani@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashwani-pandey-611bbb246/) | [Twitter](https://twitter.com/CodeWithMeaning)
+## CORE DEVOPS SKILLS
 
+### Linux & System Administration
+- Ubuntu / CentOS
+- systemd services
+- Process & memory management
+- Log analysis (`journalctl`, app logs)
+- File system & permissions
 
-## Github Stats
+### Containers & Deployment
+- Docker
+- Docker Compose
+- Containerizing Spring Boot microservices
+- Multi-service deployments on a single VM
 
-![Ashwanipydev](https://github-readme-stats.vercel.app/api?username=ashwanipydev&show_icons=true&count_private=true)
+### CI/CD
+- Git & GitHub (PR workflow, branching)
+- GitHub Actions (learning & hands-on)
+- Build → Test → Docker → Deploy flow
+- Environment-specific configurations
 
-## Top Languages
+### Networking & Web
+- Nginx reverse proxy
+- SSL / TLS certificates
+- Port & firewall configuration
+- API routing
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwanipydev)
+### Cloud (Foundational)
+- AWS EC2
+- Security Groups
+- IAM basics
+- Cost-awareness & VM hosting
 
-## Let's Collaborate!
+---
 
-I'm always open to collaboration and learning from others. If you're interested in working together on a project or have any questions, feel free to reach out. Let's build amazing things together! 😄
+## BACKEND ENGINEERING (SUPPORTING DEVOPS)
 
-<!--
-**ashwanipydev/ashwanipydev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Java 17
+- Spring Boot
+- Spring Security (JWT)
+- REST API design
+- Microservices architecture
 
-Here are some ideas to get you started:
+### Databases & Caching
+- PostgreSQL
+- MongoDB
+- Redis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-## Projects
+---
 
-Here are a few projects I'm proud of:
+## PROJECT EXPERIENCE
 
-- [Project 1](link-to-project-1) - A brief description of project 1.
-- [Project 2](link-to-project-2) - A brief description of project 2.
-- [Project 3](link-to-project-3) - A brief description of project 3.
-- 💼 My portfolio: [https://yourportfolio.com](https://yourportfolio.com)
--->
+### HR & Attendance Management System
+- Microservices-based backend
+- Secure JWT authentication service
+- PostgreSQL + Redis
+- Dockerized deployment
+- Linux VM hosting with Nginx
+
+### Auth Service (JWT)
+- Token-based authentication
+- Spring Security
+- Docker container
+- systemd-managed service
+
+### Infrastructure Practice
+- Running multiple Spring Boot services on one server
+- Reverse proxy with SSL
+- Log-based troubleshooting
+- Environment isolation (UAT / Prod style)
+
+---
+
+## CURRENT FOCUS (2026)
+
+- Advanced CI/CD pipelines
+- AWS services for DevOps
+- Observability & monitoring basics
+- Infrastructure reliability & automation
+- Interview-ready DevOps fundamentals
+
+---
+
+## TOOLS & TECHNOLOGIES
+
+| Category | Tools |
+|--------|------|
+| OS | Linux |
+| Containers | Docker, Docker Compose |
+| CI/CD | GitHub Actions |
+| Web | Nginx |
+| Backend | Java, Spring Boot |
+| DB | PostgreSQL, MongoDB |
+| Cache | Redis |
+| SCM | Git, GitHub |
+
+---
+
+## CONTACT
+
+- GitHub: https://github.com/ashwanipydev
+- Email: *(add if needed)*
+
+---
+
+🚀 *Build. Deploy. Operate. Improve.*
