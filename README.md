@@ -124,7 +124,7 @@ Actively preparing for **DevOps / Platform Engineer roles** with a focus on real
 ## CONTACT
 
 - GitHub: https://github.com/ashwanipydev
-- Email: *(add if needed)*
+- Email: *(pydev.ashwani@gmail.com)*
 
 ---
 
