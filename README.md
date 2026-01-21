@@ -17,13 +17,9 @@ Actively preparing for **DevOps / Platform Engineer roles** with a focus on real
 
 ## CI/CD PIPELINE (PRACTICAL FLOW)
 
-## CI/CD PIPELINE (PRACTICAL FLOW)
-
 <p align="center">
   <img src="assets/cicd-pipeline.png" alt="CI/CD Pipeline Diagram" width="700"/>
 </p>
-
-
 
 ---
 
