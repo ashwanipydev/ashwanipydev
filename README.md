@@ -19,53 +19,9 @@ Actively preparing for **DevOps / Platform Engineer roles** with a focus on real
 
 ## CI/CD PIPELINE (PRACTICAL FLOW)
 
-+------------+
-| Developer  |
-+------------+
-      |
-      v
-+------------------+
-| Git Commit / PR  |
-+------------------+
-      |
-      v
-+----------------------+
-| GitHub Repository   |
-+----------------------+
-      |
-      v
-+---------------------------+
-| CI - GitHub Actions       |
-|---------------------------|
-| • Build                   |
-| • Unit Tests              |
-| • Docker Image Build      |
-| • Image Tagging           |
-+---------------------------+
-      |
-      v
-+-------------------+
-| Docker Registry   |
-+-------------------+
-      |
-      v
-+----------------------------+
-| Linux Server (VM / EC2)    |
-|----------------------------|
-| • Docker Compose           |
-| • Env Variables            |
-| • systemd Restart          |
-+----------------------------+
-      |
-      v
-+----------------------+
-| Nginx + SSL          |
-+----------------------+
-      |
-      v
-+----------------------+
-| Production APIs     |
-+----------------------+
+<p align="center">
+  <img src="assets/cicd-pipeline.png" alt="CI/CD Pipeline Diagram" width="700"/>
+</p>
 
 
 
