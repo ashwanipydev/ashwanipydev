@@ -17,38 +17,56 @@ Actively preparing for **DevOps / Platform Engineer roles** with a focus on real
 
 ## CI/CD PIPELINE (PRACTICAL FLOW)
 
-Developer
-|
-v
-Git Commit / PR
-|
-v
-GitHub Repository
-|
-v
-CI Pipeline (GitHub Actions)
-|
-|---> Compile & Unit Tests
-|---> Build JAR (Spring Boot)
-|---> Build Docker Image
-|---> Tag Image (version / commit hash)
-|
-v
-Docker Registry
-|
-v
-Linux Server (VM / EC2)
-|
-|---> Pull Image
-|---> Docker Compose
-|---> Environment Config
-|---> systemd / Container Restart
-|
-v
-Nginx (Reverse Proxy + SSL)
-|
-v
-Production APIs
+## CI/CD PIPELINE (PRACTICAL FLOW)
+
++------------+
+| Developer  |
++------------+
+      |
+      v
++------------------+
+| Git Commit / PR  |
++------------------+
+      |
+      v
++----------------------+
+| GitHub Repository   |
++----------------------+
+      |
+      v
++---------------------------+
+| CI - GitHub Actions       |
+|---------------------------|
+| • Build                   |
+| • Unit Tests              |
+| • Docker Image Build      |
+| • Image Tagging           |
++---------------------------+
+      |
+      v
++-------------------+
+| Docker Registry   |
++-------------------+
+      |
+      v
++----------------------------+
+| Linux Server (VM / EC2)    |
+|----------------------------|
+| • Docker Compose           |
+| • Env Variables            |
+| • systemd Restart          |
++----------------------------+
+      |
+      v
++----------------------+
+| Nginx + SSL          |
++----------------------+
+      |
+      v
++----------------------+
+| Production APIs     |
++----------------------+
+
 
 
 ---
