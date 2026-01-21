@@ -18,7 +18,7 @@ Actively preparing for **DevOps / Platform Engineer roles** with a focus on real
 ## CI/CD PIPELINE (PRACTICAL FLOW)
 
 <p align="center">
-  <img src="assets/cicd-pipeline.png" alt="CI/CD Pipeline Diagram" width="700"/>
+  <img src="assets/cicd-pipeline.png" alt="CI/CD Pipeline Diagram" width="500"/>
 </p>
 
 ---
@@ -124,7 +124,7 @@ Actively preparing for **DevOps / Platform Engineer roles** with a focus on real
 ## CONTACT
 
 - GitHub: https://github.com/ashwanipydev
-- Email: *(pydev.ashwani@gmail.com)*
+- Email: *pydev.ashwani@gmail.com*
 
 ---
 
